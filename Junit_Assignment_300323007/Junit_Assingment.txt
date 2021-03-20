@@ -1,0 +1,4 @@
+Descriptions in Readme
+Submit your Github Repo Link Here.
+Your program will be tested agains ten tests of my own. You will get marks accordingly. Two tests are already provided.
+Obviously, you need to do many tests of your own so to be more confident your program will pass all tests.
